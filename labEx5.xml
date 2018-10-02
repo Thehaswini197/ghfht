@@ -1,0 +1,34 @@
+<?xml-stylesheet type="text/css" href="labEx5style.css" ?>
+<!DOCTYPE html>
+<html>
+<head>
+<h1>STUDENT INFORMATION</h1>
+</head>
+<students>
+	<student>
+		<usn>USN: 4AL15CS011</usn>
+		<name>Name: Anusha</name>
+		<college>College: AIET</college>
+		<branch>Branch: Computer Science</branch>
+		<year>Year of joining: 2015</year>
+		<email>Email: anusha@gmail.com</email>
+	</student>
+	<student>
+		<usn>USN: 4AL16CS001</usn>
+		<name>Name: Anushri</name>
+		<college>College: AIET</college>
+		<branch>Branch: Computer Science</branch>
+		<year>Year of joining: 2016</year>
+		<email>Email: anu98@gmail.com</email>
+	</student>
+<student>
+		<usn>USN: 4AL17CS100</usn>
+		<name>Name: Tanvi</name>
+		<college>College: AIET</college>
+		<branch>Branch: Computer Science</branch>
+		<year>Year of joining: 2017</year>
+		<email>Email: tanvi@gmail.com</email>
+	</student>
+	
+</students>
+</html>
